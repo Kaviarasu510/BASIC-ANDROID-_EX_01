@@ -1,4 +1,4 @@
-# Ex.No:2 To create a HelloWorld Activity using all lifecycles methods to display messages.
+# Ex.No:1 Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
 
 ## AIM:
@@ -7,7 +7,7 @@ To create a HelloWorld Activity using all lifecycles methods to display messages
 
 ## EQUIPMENTS REQUIRED:
 
-Latest Version Android Studio
+Android Studio(Min. required Artic Fox)
 ## ALGORITHM:
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
@@ -26,11 +26,12 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 /*
-Program to print the text “Hello World”.
-Developed by: Samuel M
-Registeration Number :212222040142
+Program to implement a Hello world Activity using all lifecycles methods using Android Studio .
+Developed by: KAVIYARASU.K
+RegisterNumber: 212222040075
 */
 ```
+# MainActivity.java:
 ```
 mainactivity.java
 package com.example.bala;
@@ -94,6 +95,7 @@ public class MainActivity extends AppCompatActivity {
 
 }
 ```
+# activitymain.xml:
 ```
 androidmanifest.xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -137,4 +139,4 @@ androidmanifest.xml
 
 
 ## RESULT
-Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
+Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
