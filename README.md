@@ -128,14 +128,20 @@ androidmanifest.xml
 
 ## OUTPUT:
 
+## Onstart:
 ![lc1](https://github.com/Samuelmariappan/lifecyclemethods/assets/119393030/8f206bbd-26f0-4593-b625-215084dead67)
+
+## Onrestart:
 ![lc2](https://github.com/Samuelmariappan/lifecyclemethods/assets/119393030/9b7a56a3-2cb0-47dc-a9e8-669c51e9d804)
+
+## Onresume:
 ![lc3](https://github.com/Samuelmariappan/lifecyclemethods/assets/119393030/3e836d5f-7cfb-4d1c-898f-de8f8e84fc7c)
+
+## Oncreate:
 ![lc4](https://github.com/Samuelmariappan/lifecyclemethods/assets/119393030/e756a4f7-e1ad-4480-b97c-1c5303e7b20d)
+
+## Onpause:
 ![lc5](https://github.com/Samuelmariappan/lifecyclemethods/assets/119393030/726d829f-7e8a-4619-aee9-43355a4f19bb)
-
-
-
 
 
 ## RESULT
